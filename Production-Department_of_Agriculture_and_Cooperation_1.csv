@@ -46,10 +46,10 @@ Agricultural Production Oilseeds Sunflower Kharif,"Annual, Ending mar Of Each Ye
 Agricultural Production Oilseeds Sunflower Rabi,"Annual, Ending mar Of Each Year",Ton mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.7556,0.9832,0.862,1.0003,0.8009,0.636314,0.459233,0.369253,0.357,0.3762
 Agricultural Production Oilseeds Soyabean Kharif,"Annual, Ending mar Of Each Year",Ton mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8763,8.2735,8.8508,10.9682,9.90543,9.964477,12.736397,12.213513,14.666,11.948
 Agricultural Production Commercial Crops Cotton,"Annual, Ending mar Of Each Year",Bale mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16.4286,18.499,22.6318,25.8841,22.2762,24.021803,33,35.2,34.22,36.5
-Agricultural Production Commercial Crops Jute,"Annual, Ending mar Of Each Year",Bale mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.3993,9.97,10.3171,10.2201,9.6344,11.230374,10.009412,10.73564,10.34,10.821
-Agricultural Production Commercial Crops Mesta,"Annual, Ending mar Of Each Year",Bale mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.873,0.8701,0.9559,0.9904,0.7309,0.587028,0.610752,0.66298,0.59,0.5795
-Agricultural Production Commercial Crops Jute and Mesta,"Annual, Ending mar Of Each Year",Bale mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.2723,10.8396,11.273,11.2105,10.3653,11.817402,10.620164,11.39862,10.93,11.4005
-Agricultural Production Commercial Crops Sugarcane,"Annual, Ending mar Of Each Year",Ton mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,237.0884,281.1718,355.5197,348.1879,285.0293,292.301617,342.3815552,361.036576,341.2,348.384
+Agricultural Production Commercial Crops Jute,"Annual, Ending mar Of Each Year",Bale mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17.4286,9.97,10.3171,10.2201,9.6344,11.230374,10.009412,10.73564,10.34,10.821
+Agricultural Production Commercial Crops Mesta,"Annual, Ending mar Of Each Year",Bale mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18.4286,0.8701,0.9559,0.9904,0.7309,0.587028,0.610752,0.66298,0.59,0.5795
+Agricultural Production Commercial Crops Jute and Mesta,"Annual, Ending mar Of Each Year",Bale mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19.4286,10.8396,11.273,11.2105,10.3653,11.817402,10.620164,11.39862,10.93,11.4005
+Agricultural Production Commercial Crops Sugarcane,"Annual, Ending mar Of Each Year",Ton mn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20.4286,281.1718,355.5197,348.1879,285.0293,292.301617,342.3815552,361.036576,341.2,348.384
 Agricultural Production Plantation Crops Potato,"Annual, Ending mar Of Each Year",Ton mn,NA,NA,NA,NA,NA,NA,23.61,24.7,22.5,23.9,23.3,23.1,23.6,23.9,22.2,28.5,NA,NA,NA,NA,NA,NA
 Agricultural Production Plantation Crops Onion,"Annual, Ending mar Of Each Year",Ton mn,NA,NA,NA,NA,4.18,3.62,5.33,4.9,4.55,4.83,4.21,5.92,6.43,8.68,NA,NA,NA,NA,NA,NA,NA,NA
 Agricultural Production Plantation Crops Tobacco,"Annual, Ending mar Of Each Year",Ton mn,NA,NA,NA,NA,0.62,0.64,0.74,0.52,0.34,0.55,0.5,0.54,0.55,0.55,NA,NA,NA,NA,NA,NA,NA,NA
@@ -428,3 +428,5 @@ Agricultural Production Foodgrains Coarse Cereals Yield Tamil Nadu,"Annual, Endi
 Agricultural Production Foodgrains Coarse Cereals Yield Uttar Pradesh,"Annual, Ending mar Of Each Year",kg/ha,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1366,1577,1383,1404,1454,1550,1541,1563,1759,1845,NA
 Agricultural Production Foodgrains Coarse Cereals Yield Uttaranchal,"Annual, Ending mar Of Each Year",kg/ha,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1274,1222,1188,1318,1319,1280,1160,1328,1320,1360,NA
 Agricultural Production Foodgrains Coarse Cereals Yield West Bengal,"Annual, Ending mar Of Each Year",kg/ha,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1905,2443,2132,2589,2729,3319,3531,3700,3455,5250,NA
+,,,,,,,,,,,,,,,92.143,,,,,,,,,
+,,,,,,,,,,,,,,,92.143,,,,,,,,,
