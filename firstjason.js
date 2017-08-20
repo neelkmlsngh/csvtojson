@@ -24,13 +24,3 @@ lineReader.on('close', function(line) {
 lineReader.on('close', function(line) {
     writableFormat.write(JSON.stringify(b, null, 2))
 });
-lineReader.on('close', function(line) {
-    e = a.filter(function(data) {
-        return data.Particulars.includes("Agricultural Production Foodgrains")
-    });
-    e.sort((c, d) => (d.Unit - c.Unit));
-    console.log(e)
-});
-lineReader.on('close', function(line) {
-    writableFormat.write(JSON.stringify(e, null, 2))
-});
